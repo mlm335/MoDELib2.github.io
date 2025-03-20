@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mlm335.github.io/MoDELib2.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
