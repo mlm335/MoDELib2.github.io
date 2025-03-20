@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Mechanics of Defect Evolution Library"
-featured_image: "Background.webp"
+featured_image: "Background.png"
 menu:
   main:
     weight: 2
