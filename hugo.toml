@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'MoDELib2'
 theme = "ananke"
 
+[params]
+  background = "/images/straight_lines.jpeg"
+
 [menu]
 
   [[menu.main]]
