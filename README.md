@@ -1,4 +1,4 @@
-# MoDELib2 Documentation
+# MoDELib2 (Mechanics of Defect Dvolution Library)
 
 ![](https://custom-icon-badges.demolab.com/badge/University%20of%20Miami-005030?)
 
